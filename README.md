@@ -7,7 +7,7 @@
 
 **Learning stuffs while vibing to Toru Kitajima-san & Ling Tosite Sigure's music**
 
-Skills: JS / C / C++ / Electron.js
+*Skills*: **JS / C / C++ / Electron.js**
 
 - 🔭 I’m currently working on **Whatsapp Automation**
 
