@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, My name is Somnath Das
+#### Let's laugh under the blue sky and eat this world dry.
+![Let's laugh under the blue sky and eat this world dry.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**SomnathDas/SomnathDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning stuffs while vibing to Toru Kitajima-san & Ling Tosite Sigure's music
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Whatsapp Automation 
+- 🌱 I’m currently learning Maths 
+- 📫 How to reach me: ak89545@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SomnathDas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@samurai3247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aksd3247)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomnathDas&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/SomnathDas)  
