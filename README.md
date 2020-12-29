@@ -9,7 +9,7 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Whatsapp Automation
+- 🔭 I’m currently working on **Whatsapp Automation**
 
 - 🌱 I’m currently learning **Maths** 
 
