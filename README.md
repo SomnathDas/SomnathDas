@@ -9,7 +9,7 @@
 
 *Skills*: **JS / C / C++ / Electron.js / Python**
 
-- 🔭 I’m currently working on **Whatsapp Automation**
+- 🔭 I’m currently working on **Open-Sensation**
 
 - 🌱 I’m currently learning **Maths** 
 
