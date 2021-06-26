@@ -15,8 +15,7 @@
 
 - 📫 How to reach me: **ak89545@gmail.com** 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomnathDas&theme=dark&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomnathDas&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas)](https://github.com/anuraghazra/github-readme-stats)
-
-**Github** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='26'>](https://github.com/SomnathDas) | **Instagram** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='26'>](https://www.instagram.com/samurai3247/) | **Twitter** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='26'>](https://twitter.com/aksd3247)  
+**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/SomnathDas) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/samurai3247/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/aksd3247)  
 
