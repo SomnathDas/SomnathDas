@@ -7,15 +7,16 @@
 
 **Learning stuffs while vibing to Ling Tosite Sigure's music**
 
-- 📖 Primary Languages: **Javascript/Typescript**
+- 📖 Primary Languages => ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 📘 Secondary Languages: **C / C++ / Python**
+- 📘 Secondary Languages => ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- 📃 Practicing/Learning => ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 🔭 I’m currently working on **Synthesized Infinity**
 
 - 🌱 I’m currently learning **Mathematics** 
 
-- 📫 Contact me through: **ak89545@gmail.com** 
+- 📫 Contact me through => **ak89545@gmail.com** 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomnathDas&theme=dark&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas&theme=dark)
