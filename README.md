@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/SomnathDas)  ![Last Modified](https://img.shields.io/github/last-commit/SomnathDas/SomnathDas?style=flat)
 
-**Learning stuffs while vibing to Ling Tosite Sigure's music**
+**Learning stuffs while vibing to Ling Tosite Sigure music**
 
 - 📖 Primary Languages => ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -21,5 +21,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomnathDas&theme=dark&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas&theme=dark)
 
+## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/SomnathDas) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/samurai3247/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/aksd3247)  
 
