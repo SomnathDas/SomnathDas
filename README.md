@@ -1,21 +1,19 @@
-<h1 align="center">Yo 🤍, I'm Soमnaथ Daस</h1>
-<h3 align="center">" Reality is that which, when you stop believing in it, doesn't go away. "</h3>
+<h1 align="center">Namaste! I'm Soमnaथ Daस</h1>
+<h3 align="center">"Reality is that which, when you stop believing in it, doesn't go away. ~ Philip K. Dick"</h3>
 
 <img align="right" alt="GIF" height="256px" src="https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/03/ce2c5d872439fecd6a0eead73628db8f.jpg" />
 
 ![Profile views](https://gpvc.arturio.dev/SomnathDas)  ![Last Modified](https://img.shields.io/github/last-commit/SomnathDas/SomnathDas?style=flat)
 
-**Learning stuffs while vibing to Ling Tosite Sigure music**
+**| Man and Machine |**
 
 - 📖 Primary Languages => ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - 📘 Secondary Languages => ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-- 📃 Practicing/Learning =>  ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 - <a href="https://codepen.io/samurai2099" target="_blank"/>My CodePen</a> Profile <= ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+- 📃 Practicing/Learning => ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 - 🔭 I’m currently working on **Synthesized Infinity**
-
-- 🌱 I’m currently learning **Mathematics** 
 
 - 📫 Contact me through => **ak89545@gmail.com** 
 
