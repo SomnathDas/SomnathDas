@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="256px" src="https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/03/ce2c5d872439fecd6a0eead73628db8f.jpg" />
 
-![Profile views](https://gpvc.arturio.dev/SomnathDas)  ![Last Modified](https://img.shields.io/github/last-commit/SomnathDas/SomnathDas?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=SomnathDas&color=blue)  ![Last Modified](https://img.shields.io/github/last-commit/SomnathDas/SomnathDas?style=flat)
 
 **| Man and Machine |**
 
