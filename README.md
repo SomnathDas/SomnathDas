@@ -1,5 +1,5 @@
-<h1 align="center">Namaste! I'm Soमnaथ Daस</h1>
-<h3 align="center">"Reality is that which, when you stop believing in it, doesn't go away. ~ Philip K. Dick"</h3>
+<h1 align="center">Namaste 🙏</h1>
+<h3 align="center">"No structure, even an artificial one, enjoys the process of entropy. It is the ultimate fate of everything, and everything resists it"</h3>
 
 <img align="right" alt="GIF" height="256px" src="https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/03/ce2c5d872439fecd6a0eead73628db8f.jpg" />
 
