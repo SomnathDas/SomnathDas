@@ -17,7 +17,7 @@
 
 - 🔋 Chippin' myself away in => ![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas&hide=html,css,haskell,shell,batchfile,java&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathDas&hide=html,css,haskell,shell,batchfile,java&theme=default)
 
 ## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/SomnathDas) 
